@@ -2,69 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="bcaafc02-9a51-43de-b631-cadd993cefbc" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/staticfiles/css/base.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/staticfiles/css/font-awesome/css/font-awesome.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/staticfiles/css/font-awesome/css/font-awesome.min.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/staticfiles/css/font-awesome/fonts/FontAwesome.otf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/staticfiles/css/font-awesome/fonts/fontawesome-webfont.eot" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/staticfiles/css/font-awesome/fonts/fontawesome-webfont.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/staticfiles/css/font-awesome/fonts/fontawesome-webfont.ttf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/staticfiles/css/font-awesome/fonts/fontawesome-webfont.woff" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/staticfiles/css/fonts.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/staticfiles/css/main.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/staticfiles/css/micons/fonts/icomoon.eot" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/staticfiles/css/micons/fonts/icomoon.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/staticfiles/css/micons/fonts/icomoon.ttf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/staticfiles/css/micons/fonts/icomoon.woff" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/staticfiles/css/micons/micons.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/staticfiles/fonts/lora/lora-bold-webfont.eot" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/staticfiles/fonts/lora/lora-bold-webfont.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/staticfiles/fonts/lora/lora-bold-webfont.ttf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/staticfiles/fonts/lora/lora-bold-webfont.woff" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/staticfiles/fonts/lora/lora-bolditalic-webfont.eot" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/staticfiles/fonts/lora/lora-bolditalic-webfont.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/staticfiles/fonts/lora/lora-bolditalic-webfont.ttf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/staticfiles/fonts/lora/lora-bolditalic-webfont.woff" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/staticfiles/fonts/lora/lora-italic-webfont.eot" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/staticfiles/fonts/lora/lora-italic-webfont.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/staticfiles/fonts/lora/lora-italic-webfont.ttf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/staticfiles/fonts/lora/lora-italic-webfont.woff" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/staticfiles/fonts/lora/lora-regular-webfont.eot" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/staticfiles/fonts/lora/lora-regular-webfont.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/staticfiles/fonts/lora/lora-regular-webfont.ttf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/staticfiles/fonts/lora/lora-regular-webfont.woff" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/staticfiles/fonts/lora/stylesheet.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/staticfiles/fonts/poppins/poppins-bold-webfont.eot" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/staticfiles/fonts/poppins/poppins-bold-webfont.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/staticfiles/fonts/poppins/poppins-bold-webfont.ttf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/staticfiles/fonts/poppins/poppins-bold-webfont.woff" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/staticfiles/fonts/poppins/poppins-bold-webfont.woff2" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/staticfiles/fonts/poppins/poppins-light-webfont.eot" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/staticfiles/fonts/poppins/poppins-light-webfont.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/staticfiles/fonts/poppins/poppins-light-webfont.ttf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/staticfiles/fonts/poppins/poppins-light-webfont.woff" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/staticfiles/fonts/poppins/poppins-light-webfont.woff2" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/staticfiles/fonts/poppins/poppins-medium-webfont.eot" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/staticfiles/fonts/poppins/poppins-medium-webfont.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/staticfiles/fonts/poppins/poppins-medium-webfont.ttf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/staticfiles/fonts/poppins/poppins-medium-webfont.woff" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/staticfiles/fonts/poppins/poppins-medium-webfont.woff2" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/staticfiles/fonts/poppins/poppins-regular-webfont.eot" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/staticfiles/fonts/poppins/poppins-regular-webfont.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/staticfiles/fonts/poppins/poppins-regular-webfont.ttf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/staticfiles/fonts/poppins/poppins-regular-webfont.woff" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/staticfiles/fonts/poppins/poppins-regular-webfont.woff2" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/staticfiles/fonts/poppins/poppins-semibold-webfont.eot" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/staticfiles/fonts/poppins/poppins-semibold-webfont.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/staticfiles/fonts/poppins/poppins-semibold-webfont.ttf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/staticfiles/fonts/poppins/poppins-semibold-webfont.woff" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/staticfiles/fonts/poppins/poppins-semibold-webfont.woff2" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/staticfiles/fonts/poppins/stylesheet.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/staticfiles/js/raphael-min.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/staticfiles/js/raphael.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/templates/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/linkedin_project/settings.py" beforeDir="false" afterPath="$PROJECT_DIR$/linkedin_project/settings.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/linkedin_project/urls.py" beforeDir="false" afterPath="$PROJECT_DIR$/linkedin_project/urls.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/templates/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/templates/index.html" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -96,14 +34,14 @@
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
-          <entry key="html" value="71" />
+          <entry key="html" value="83" />
           <entry key="js" value="195" />
           <entry key="py" value="66" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
-          <entry key="HTML" value="71" />
+          <entry key="HTML" value="83" />
           <entry key="JavaScript" value="195" />
           <entry key="Python" value="66" />
         </counts>
@@ -121,20 +59,20 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="false">
+      <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/templates/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="120">
-              <caret line="8" column="23" lean-forward="true" selection-start-line="8" selection-start-column="23" selection-end-line="8" selection-end-column="23" />
+            <state relative-caret-position="150">
+              <caret line="10" column="23" lean-forward="true" selection-start-line="10" selection-start-column="23" selection-end-line="10" selection-end-column="23" />
             </state>
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/staticfiles/js/raphael.js">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="75">
-              <caret line="5" column="21" selection-start-line="5" selection-start-column="14" selection-end-line="5" selection-end-column="21" />
+              <caret line="5" column="50" selection-start-line="5" selection-start-column="50" selection-end-line="5" selection-end-column="50" />
             </state>
           </provider>
         </entry>
@@ -188,8 +126,8 @@
         <option value="$PROJECT_DIR$/linkedin_project/settings.py" />
         <option value="$PROJECT_DIR$/staticfiles/home/js/raphael.js" />
         <option value="$PROJECT_DIR$/staticfiles/js/raphael-min.js" />
-        <option value="$PROJECT_DIR$/templates/index.html" />
         <option value="$PROJECT_DIR$/staticfiles/js/raphael.js" />
+        <option value="$PROJECT_DIR$/templates/index.html" />
       </list>
     </option>
   </component>
@@ -351,17 +289,17 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/templates/index.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="120">
-          <caret line="8" column="23" lean-forward="true" selection-start-line="8" selection-start-column="23" selection-end-line="8" selection-end-column="23" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/staticfiles/js/raphael.js">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="75">
-          <caret line="5" column="21" selection-start-line="5" selection-start-column="14" selection-end-line="5" selection-end-column="21" />
+          <caret line="5" column="50" selection-start-line="5" selection-start-column="50" selection-end-line="5" selection-end-column="50" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/templates/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="150">
+          <caret line="10" column="23" lean-forward="true" selection-start-line="10" selection-start-column="23" selection-end-line="10" selection-end-column="23" />
         </state>
       </provider>
     </entry>
